@@ -1,0 +1,107 @@
+* {
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+}
+
+body {
+    background-image: linear-gradient(to right, rgb(81,180,156 ), rgba(0, 0, 0, 0.678));
+    
+}
+
+
+
+ nav{
+    background-image: linear-gradient(to right, rgb(81, 180, 156), rgba(0, 0, 0, 0.233));
+    justify-content: center;
+    font-size: 25px;
+    display: flex;
+    gap: 30px;
+    border: 1px solid #000000;
+}
+
+nav a {
+    text-decoration: none;
+    color: #000000;
+    font-family: Verdana, Geneva, Tahoma, sans-serif
+ } 
+
+.Nome{
+    text-align: center;
+}
+
+.Imagem img{
+    height: 250px;
+    width: 250px;
+
+    border-radius: 50%;
+    border-style: solid;
+    border-color: aliceblue;;
+}
+.Imagem {
+    text-align: center;
+    padding: 30px;
+    
+}
+
+
+.Nome h1{
+    
+    color: rgb(255, 255, 255);
+    margin-top: 5px;
+    margin-bottom: 10px;
+}
+
+
+
+
+.Text h2{
+    text-align: center;
+    margin-top: 40px;
+    margin-bottom: 15px;
+    color: aliceblue;
+}
+
+.Text p{
+    color: aliceblue;
+    text-align: center;
+}
+
+
+
+footer{
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 5px;
+    gap: 30px;
+}
+
+.icone {    
+    margin-top: 100px;
+    width: 70px;
+}
+
+
+.trabalhos{
+    text-align: center;
+    
+}
+
+.trabalhos img{
+    height: 600px;
+    width: 800px;
+}
+
+
+
+.formulario{
+    text-align: center;  
+}
+
+.formulario h1{
+    margin-bottom: 10px;
+}
+#email{
+    margin-top: 20px;
+}
