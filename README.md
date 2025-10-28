@@ -1,1 +1,2 @@
-https://thiagoyukihiro.github.io/mini_blog_prova/
+https://thiagoyukihiro.github.io/mini_blog_prova#/
+
